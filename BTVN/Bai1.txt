@@ -1,0 +1,3 @@
+1. Abstraction: Tập trung vào cốt lõi của đối tượng, bỏ qua những thứ không liên quan và không quan trọng.
+2. Encapsulation: Tính chất này không cho phép người dùng trực tiếp tác động đến dữ liệu bên trong đối tượng mà phải thông qua các phương thức mà đối tượng cung cấp. Tính chất này đảm bảo tính toàn vẹn của đối tượng.
+3.Tính đa hình cho phép các chức năng (method) khác nhau được thực thi khác nhau trên các đối tượng khác nhau.

@@ -1,0 +1,54 @@
+#bigDiv{
+    margin-left: 30%;
+    margin-right:30%;
+    margin-top: 100px;
+}
+#headDiv{
+    background-color: #232055;
+    color:white;
+    padding:15px;
+    display:flex;
+    justify-content: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 20px;
+}
+#inputDiv{
+    background-color: #2A2A68;    
+
+}
+.inp{
+    width: 80%;
+    margin-left:8.5%;
+    margin-right:10%;
+    margin-top: 20px;
+    color: gray;
+    border-radius:10px;
+    padding:8px;
+}
+
+p{
+    display: inline;
+    color: whitesmoke;
+    font-size: 15px;
+}
+#checkDiv{
+    background-color: #2A2A68;
+    padding-left:10%;
+    padding-right: 10%;
+    padding-top:20px;
+}
+.regDiv{
+    background-color: #2A2A68;
+    padding:20px;
+    display: flex;
+    justify-content: flex-end;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#reg{
+    padding:10px 40px 10px 40px;
+    background-color: green;
+    border-radius: 10px;
+
+}
