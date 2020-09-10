@@ -1,0 +1,3 @@
+* Arrow function: không có riêng giá trị "this" hoặc tham số riêng. 
+    This được định nghĩa là giá trị bên ngoài arrow function
+* Function: this là giá trị được tạo ra trong function
